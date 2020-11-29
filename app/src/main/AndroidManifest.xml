@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.BackgroundTheardPratice">
-        <activity android:name=".LooperMessageQueueHandlerExplained">
+        <activity android:name=".LooperMQH.LooperMessageQueueHandlerExplained">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
